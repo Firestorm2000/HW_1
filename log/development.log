@@ -1,0 +1,257 @@
+Started POST "/intervals" for 127.0.0.1 at 2017-10-10 22:02:01 +0300
+Processing by DocumentsController#intervals as */*
+  Parameters: {"file"=>#<ActionDispatch::Http::UploadedFile:0xab6b098 @tempfile=#<Tempfile:/tmp/RackMultipart20171010-1901-5pjxp7.csv>, @original_filename="a.csv", @content_type="application/octet-stream", @headers="Content-Disposition: form-data; name=\"file\"; filename=\"a.csv\"\r\nContent-Type: application/octet-stream\r\n">}
+Completed 500 Internal Server Error in 1022ms
+
+
+  
+NameError (undefined local variable or method `max' for #<DocumentsController:0xab73cd4>):
+  
+app/controllers/documents_controller.rb:50:in `block in intervals'
+app/controllers/documents_controller.rb:38:in `intervals'
+Started POST "/intervals" for 127.0.0.1 at 2017-10-10 22:02:19 +0300
+Processing by DocumentsController#intervals as */*
+  Parameters: {"file"=>#<ActionDispatch::Http::UploadedFile:0xb4e922d0 @tempfile=#<Tempfile:/tmp/RackMultipart20171010-1901-hhlt37.csv>, @original_filename="a.csv", @content_type="application/octet-stream", @headers="Content-Disposition: form-data; name=\"file\"; filename=\"a.csv\"\r\nContent-Type: application/octet-stream\r\n">}
+  Rendering text template
+  Rendered text template (0.1ms)
+Completed 200 OK in 26ms (Views: 5.7ms)
+
+
+Started POST "/intervals" for 127.0.0.1 at 2017-10-10 22:02:40 +0300
+Processing by DocumentsController#intervals as */*
+  Parameters: {"file"=>#<ActionDispatch::Http::UploadedFile:0xae8777c @tempfile=#<Tempfile:/tmp/RackMultipart20171010-1901-1hj2k70.csv>, @original_filename="a.csv", @content_type="application/octet-stream", @headers="Content-Disposition: form-data; name=\"file\"; filename=\"a.csv\"\r\nContent-Type: application/octet-stream\r\n">}
+  Rendering text template
+  Rendered text template (0.1ms)
+Completed 200 OK in 24ms (Views: 2.9ms)
+
+
+Started POST "/intervals" for 127.0.0.1 at 2017-10-10 22:03:35 +0300
+Processing by DocumentsController#intervals as */*
+  Parameters: {"file"=>#<ActionDispatch::Http::UploadedFile:0xacf362c @tempfile=#<Tempfile:/tmp/RackMultipart20171010-1901-1b8n4kk.csv>, @original_filename="a.csv", @content_type="application/octet-stream", @headers="Content-Disposition: form-data; name=\"file\"; filename=\"a.csv\"\r\nContent-Type: application/octet-stream\r\n">}
+  Rendering text template
+  Rendered text template (0.1ms)
+Completed 200 OK in 79ms (Views: 1.4ms)
+
+
+Started POST "/intervals" for 127.0.0.1 at 2017-10-10 22:03:39 +0300
+Processing by DocumentsController#intervals as */*
+  Parameters: {"file"=>#<ActionDispatch::Http::UploadedFile:0xabbf1c0 @tempfile=#<Tempfile:/tmp/RackMultipart20171010-1901-me2vrm.csv>, @original_filename="a.csv", @content_type="application/octet-stream", @headers="Content-Disposition: form-data; name=\"file\"; filename=\"a.csv\"\r\nContent-Type: application/octet-stream\r\n">}
+  Rendering text template
+  Rendered text template (0.1ms)
+Completed 200 OK in 81ms (Views: 1.3ms)
+
+
+Started POST "/intervals" for 127.0.0.1 at 2017-10-10 22:05:23 +0300
+Processing by DocumentsController#intervals as */*
+  Parameters: {"file"=>#<ActionDispatch::Http::UploadedFile:0xb4bd2c48 @tempfile=#<Tempfile:/tmp/RackMultipart20171010-1901-pi2z9v.csv>, @original_filename="a.csv", @content_type="application/octet-stream", @headers="Content-Disposition: form-data; name=\"file\"; filename=\"a.csv\"\r\nContent-Type: application/octet-stream\r\n">}
+  Rendering text template
+  Rendered text template (0.1ms)
+Completed 200 OK in 67ms (Views: 1.4ms)
+
+
+Started POST "/intervals" for 127.0.0.1 at 2017-10-10 22:05:36 +0300
+Processing by DocumentsController#intervals as */*
+  Parameters: {"file"=>#<ActionDispatch::Http::UploadedFile:0xb2fd0504 @tempfile=#<Tempfile:/tmp/RackMultipart20171010-1901-rqipx2.csv>, @original_filename="a.csv", @content_type="application/octet-stream", @headers="Content-Disposition: form-data; name=\"file\"; filename=\"a.csv\"\r\nContent-Type: application/octet-stream\r\n">}
+  Rendering text template
+  Rendered text template (0.1ms)
+Completed 200 OK in 89ms (Views: 1.5ms)
+
+
+Started POST "/intervals" for 127.0.0.1 at 2017-10-10 22:05:52 +0300
+Processing by DocumentsController#intervals as */*
+  Parameters: {"file"=>#<ActionDispatch::Http::UploadedFile:0xb4a8fa0c @tempfile=#<Tempfile:/tmp/RackMultipart20171010-1901-dirjnq.csv>, @original_filename="a.csv", @content_type="application/octet-stream", @headers="Content-Disposition: form-data; name=\"file\"; filename=\"a.csv\"\r\nContent-Type: application/octet-stream\r\n">}
+  Rendering text template
+  Rendered text template (0.1ms)
+Completed 200 OK in 77ms (Views: 1.4ms)
+
+
+Started POST "/intervals" for 127.0.0.1 at 2017-10-10 22:06:29 +0300
+Processing by DocumentsController#intervals as */*
+  Parameters: {"file"=>#<ActionDispatch::Http::UploadedFile:0xb4a079f4 @tempfile=#<Tempfile:/tmp/RackMultipart20171010-1901-xb6ojq.csv>, @original_filename="a.csv", @content_type="application/octet-stream", @headers="Content-Disposition: form-data; name=\"file\"; filename=\"a.csv\"\r\nContent-Type: application/octet-stream\r\n">}
+  Rendering text template
+  Rendered text template (0.1ms)
+Completed 200 OK in 76ms (Views: 1.4ms)
+
+
+Started POST "/intervals" for 127.0.0.1 at 2017-10-10 22:06:36 +0300
+Processing by DocumentsController#intervals as */*
+  Parameters: {"file"=>#<ActionDispatch::Http::UploadedFile:0xb3a37fd8 @tempfile=#<Tempfile:/tmp/RackMultipart20171010-1901-zals5t.csv>, @original_filename="a.csv", @content_type="application/octet-stream", @headers="Content-Disposition: form-data; name=\"file\"; filename=\"a.csv\"\r\nContent-Type: application/octet-stream\r\n">}
+  Rendering text template
+  Rendered text template (0.1ms)
+Completed 200 OK in 73ms (Views: 1.4ms)
+
+
+Started POST "/intervals" for 127.0.0.1 at 2017-10-10 22:08:23 +0300
+Processing by DocumentsController#intervals as */*
+  Parameters: {"file"=>#<ActionDispatch::Http::UploadedFile:0xae7d2cc @tempfile=#<Tempfile:/tmp/RackMultipart20171010-1901-1kwaisd.csv>, @original_filename="a.csv", @content_type="application/octet-stream", @headers="Content-Disposition: form-data; name=\"file\"; filename=\"a.csv\"\r\nContent-Type: application/octet-stream\r\n">}
+  Rendering text template
+  Rendered text template (0.1ms)
+Completed 200 OK in 5ms (Views: 1.4ms)
+
+
+Started POST "/intervals" for 127.0.0.1 at 2017-10-10 22:08:31 +0300
+Processing by DocumentsController#intervals as */*
+  Parameters: {"file"=>#<ActionDispatch::Http::UploadedFile:0xae50a24 @tempfile=#<Tempfile:/tmp/RackMultipart20171010-1901-1pdhrm4.csv>, @original_filename="a.csv", @content_type="application/octet-stream", @headers="Content-Disposition: form-data; name=\"file\"; filename=\"a.csv\"\r\nContent-Type: application/octet-stream\r\n">}
+  Rendering text template
+  Rendered text template (0.1ms)
+Completed 200 OK in 17ms (Views: 11.8ms)
+
+
+Started POST "/intervals" for 127.0.0.1 at 2017-10-10 22:09:21 +0300
+Processing by DocumentsController#intervals as */*
+  Parameters: {"file"=>#<ActionDispatch::Http::UploadedFile:0xade91bc @tempfile=#<Tempfile:/tmp/RackMultipart20171010-1901-vmu3zj.csv>, @original_filename="a.csv", @content_type="application/octet-stream", @headers="Content-Disposition: form-data; name=\"file\"; filename=\"a.csv\"\r\nContent-Type: application/octet-stream\r\n">}
+  Rendering text template
+  Rendered text template (0.1ms)
+Completed 200 OK in 71ms (Views: 1.3ms)
+
+
+Started POST "/intervals" for 127.0.0.1 at 2017-10-10 22:09:43 +0300
+Processing by DocumentsController#intervals as */*
+  Parameters: {"file"=>#<ActionDispatch::Http::UploadedFile:0xab1e61c @tempfile=#<Tempfile:/tmp/RackMultipart20171010-1901-1q67kme.csv>, @original_filename="a.csv", @content_type="application/octet-stream", @headers="Content-Disposition: form-data; name=\"file\"; filename=\"a.csv\"\r\nContent-Type: application/octet-stream\r\n">}
+  Rendering text template
+  Rendered text template (0.1ms)
+Completed 200 OK in 7ms (Views: 1.3ms)
+
+
+Started POST "/intervals" for 127.0.0.1 at 2017-10-10 22:10:59 +0300
+Processing by DocumentsController#intervals as */*
+  Parameters: {"file"=>#<ActionDispatch::Http::UploadedFile:0xa65a9b4 @tempfile=#<Tempfile:/tmp/RackMultipart20171010-1901-ynav59.csv>, @original_filename="a.csv", @content_type="application/octet-stream", @headers="Content-Disposition: form-data; name=\"file\"; filename=\"a.csv\"\r\nContent-Type: application/octet-stream\r\n">}
+  Rendering text template
+  Rendered text template (0.1ms)
+Completed 200 OK in 71ms (Views: 1.3ms)
+
+
+Started POST "/intervals" for 127.0.0.1 at 2017-10-10 22:11:34 +0300
+Processing by DocumentsController#intervals as */*
+  Parameters: {"file"=>#<ActionDispatch::Http::UploadedFile:0xb2fcfc08 @tempfile=#<Tempfile:/tmp/RackMultipart20171010-1901-lbbqnv.csv>, @original_filename="a.csv", @content_type="application/octet-stream", @headers="Content-Disposition: form-data; name=\"file\"; filename=\"a.csv\"\r\nContent-Type: application/octet-stream\r\n">}
+  Rendering text template
+  Rendered text template (0.1ms)
+Completed 200 OK in 64ms (Views: 2.2ms)
+
+
+Started POST "/intervals" for 127.0.0.1 at 2017-10-10 22:12:15 +0300
+Processing by DocumentsController#intervals as */*
+  Parameters: {"file"=>#<ActionDispatch::Http::UploadedFile:0xb2f86cc4 @tempfile=#<Tempfile:/tmp/RackMultipart20171010-1901-12u6u52.csv>, @original_filename="a.csv", @content_type="application/octet-stream", @headers="Content-Disposition: form-data; name=\"file\"; filename=\"a.csv\"\r\nContent-Type: application/octet-stream\r\n">}
+  Rendering text template
+  Rendered text template (0.1ms)
+Completed 200 OK in 65ms (Views: 1.3ms)
+
+
+Started POST "/intervals" for 127.0.0.1 at 2017-10-10 22:14:04 +0300
+Processing by DocumentsController#intervals as */*
+  Parameters: {"file"=>#<ActionDispatch::Http::UploadedFile:0xb44069b0 @tempfile=#<Tempfile:/tmp/RackMultipart20171010-1901-dg0wg2.csv>, @original_filename="a.csv", @content_type="application/octet-stream", @headers="Content-Disposition: form-data; name=\"file\"; filename=\"a.csv\"\r\nContent-Type: application/octet-stream\r\n">}
+  Rendering text template
+  Rendered text template (0.1ms)
+Completed 200 OK in 82ms (Views: 2.1ms)
+
+
+Started POST "/intervals" for 127.0.0.1 at 2017-10-10 22:14:08 +0300
+Processing by DocumentsController#intervals as */*
+  Parameters: {"file"=>#<ActionDispatch::Http::UploadedFile:0xad1c568 @tempfile=#<Tempfile:/tmp/RackMultipart20171010-1901-1robxjz.csv>, @original_filename="a.csv", @content_type="application/octet-stream", @headers="Content-Disposition: form-data; name=\"file\"; filename=\"a.csv\"\r\nContent-Type: application/octet-stream\r\n">}
+  Rendering text template
+  Rendered text template (0.1ms)
+Completed 200 OK in 63ms (Views: 1.4ms)
+
+
+Started POST "/intervals" for 127.0.0.1 at 2017-10-10 22:16:18 +0300
+Processing by DocumentsController#intervals as */*
+  Parameters: {"file"=>#<ActionDispatch::Http::UploadedFile:0xb4ace20c @tempfile=#<Tempfile:/tmp/RackMultipart20171010-1901-2cpjpe.csv>, @original_filename="a.csv", @content_type="application/octet-stream", @headers="Content-Disposition: form-data; name=\"file\"; filename=\"a.csv\"\r\nContent-Type: application/octet-stream\r\n">}
+  Rendering text template
+  Rendered text template (0.1ms)
+Completed 200 OK in 63ms (Views: 2.2ms)
+
+
+Started POST "/intervals" for 127.0.0.1 at 2017-10-10 22:50:37 +0300
+Processing by DocumentsController#intervals as */*
+  Parameters: {"file"=>#<ActionDispatch::Http::UploadedFile:0xb4cad7a8 @tempfile=#<Tempfile:/tmp/RackMultipart20171010-1901-1uhmzye.csv>, @original_filename="a.csv", @content_type="application/octet-stream", @headers="Content-Disposition: form-data; name=\"file\"; filename=\"a.csv\"\r\nContent-Type: application/octet-stream\r\n">}
+Completed 500 Internal Server Error in 493ms
+
+
+  
+NameError (undefined local variable or method `max' for #<DocumentsController:0xb4cae20c>):
+  
+app/controllers/documents_controller.rb:54:in `intervals'
+Started POST "/intervals" for 127.0.0.1 at 2017-10-10 22:50:56 +0300
+Processing by DocumentsController#intervals as */*
+  Parameters: {"file"=>#<ActionDispatch::Http::UploadedFile:0xb4a6d524 @tempfile=#<Tempfile:/tmp/RackMultipart20171010-1901-1u3dhch.csv>, @original_filename="a.csv", @content_type="application/octet-stream", @headers="Content-Disposition: form-data; name=\"file\"; filename=\"a.csv\"\r\nContent-Type: application/octet-stream\r\n">}
+  Rendering text template
+  Rendered text template (0.1ms)
+Completed 200 OK in 14ms (Views: 11.6ms)
+
+
+Started POST "/intervals" for 127.0.0.1 at 2017-10-10 22:51:14 +0300
+Processing by DocumentsController#intervals as */*
+  Parameters: {"file"=>#<ActionDispatch::Http::UploadedFile:0xb2fc3a98 @tempfile=#<Tempfile:/tmp/RackMultipart20171010-1901-1c7y6nu.csv>, @original_filename="a.csv", @content_type="application/octet-stream", @headers="Content-Disposition: form-data; name=\"file\"; filename=\"a.csv\"\r\nContent-Type: application/octet-stream\r\n">}
+  Rendering text template
+  Rendered text template (0.1ms)
+Completed 200 OK in 4ms (Views: 2.0ms)
+
+
+Started POST "/intervals" for 127.0.0.1 at 2017-10-10 22:51:33 +0300
+Processing by DocumentsController#intervals as */*
+  Parameters: {"file"=>#<ActionDispatch::Http::UploadedFile:0xb4a15360 @tempfile=#<Tempfile:/tmp/RackMultipart20171010-1901-1gju9mo.csv>, @original_filename="a.csv", @content_type="application/octet-stream", @headers="Content-Disposition: form-data; name=\"file\"; filename=\"a.csv\"\r\nContent-Type: application/octet-stream\r\n">}
+  Rendering text template
+  Rendered text template (0.1ms)
+Completed 200 OK in 5ms (Views: 2.3ms)
+
+
+Started POST "/intervals" for 127.0.0.1 at 2017-10-10 22:51:48 +0300
+Processing by DocumentsController#intervals as */*
+  Parameters: {"file"=>#<ActionDispatch::Http::UploadedFile:0xb49c6cb0 @tempfile=#<Tempfile:/tmp/RackMultipart20171010-1901-uwdf4l.csv>, @original_filename="a.csv", @content_type="application/octet-stream", @headers="Content-Disposition: form-data; name=\"file\"; filename=\"a.csv\"\r\nContent-Type: application/octet-stream\r\n">}
+  Rendering text template
+  Rendered text template (0.1ms)
+Completed 200 OK in 8ms (Views: 5.7ms)
+
+
+Started POST "/lin_regressions" for 127.0.0.1 at 2017-10-10 23:05:12 +0300
+  
+LoadError (cannot load such file -- linefit):
+  
+app/controllers/documents_controller.rb:3:in `<class:DocumentsController>'
+app/controllers/documents_controller.rb:1:in `<top (required)>'
+Started POST "/lin_regressions" for 127.0.0.1 at 2017-10-10 23:06:44 +0300
+Processing by DocumentsController#lin_regressions as */*
+  Parameters: {"file"=>#<ActionDispatch::Http::UploadedFile:0xa867c5c @tempfile=#<Tempfile:/tmp/RackMultipart20171010-2712-htyq21.csv>, @original_filename="a.csv", @content_type="application/octet-stream", @headers="Content-Disposition: form-data; name=\"file\"; filename=\"a.csv\"\r\nContent-Type: application/octet-stream\r\n">}
+Completed 500 Internal Server Error in 350ms
+
+
+  
+TypeError (String can't be coerced into Float):
+  
+app/controllers/documents_controller.rb:78:in `+'
+app/controllers/documents_controller.rb:78:in `lin_regressions'
+Started POST "/lin_regressions" for 127.0.0.1 at 2017-10-10 23:07:26 +0300
+Processing by DocumentsController#lin_regressions as */*
+  Parameters: {"file"=>#<ActionDispatch::Http::UploadedFile:0xa923f74 @tempfile=#<Tempfile:/tmp/RackMultipart20171010-2712-6o3j14.csv>, @original_filename="a.csv", @content_type="application/octet-stream", @headers="Content-Disposition: form-data; name=\"file\"; filename=\"a.csv\"\r\nContent-Type: application/octet-stream\r\n">}
+Completed 500 Internal Server Error in 3ms
+
+
+  
+TypeError (String can't be coerced into Float):
+  
+app/controllers/documents_controller.rb:78:in `+'
+app/controllers/documents_controller.rb:78:in `lin_regressions'
+Started POST "/lin_regressions" for 127.0.0.1 at 2017-10-10 23:09:00 +0300
+Processing by DocumentsController#lin_regressions as */*
+  Parameters: {"file"=>#<ActionDispatch::Http::UploadedFile:0xb5de2e60 @tempfile=#<Tempfile:/tmp/RackMultipart20171010-2712-1oop4h1.csv>, @original_filename="a.csv", @content_type="application/octet-stream", @headers="Content-Disposition: form-data; name=\"file\"; filename=\"a.csv\"\r\nContent-Type: application/octet-stream\r\n">}
+  Rendering text template
+  Rendered text template (0.1ms)
+Completed 200 OK in 7ms (Views: 3.5ms)
+
+
+Started POST "/lin_regressions" for 127.0.0.1 at 2017-10-10 23:09:50 +0300
+Processing by DocumentsController#lin_regressions as */*
+  Parameters: {"file"=>#<ActionDispatch::Http::UploadedFile:0xa927890 @tempfile=#<Tempfile:/tmp/RackMultipart20171010-2712-1f3hjp.csv>, @original_filename="a.csv", @content_type="application/octet-stream", @headers="Content-Disposition: form-data; name=\"file\"; filename=\"a.csv\"\r\nContent-Type: application/octet-stream\r\n">}
+  Rendering text template
+  Rendered text template (0.1ms)
+Completed 200 OK in 9ms (Views: 2.3ms)
+
+
+Started POST "/lin_regressions" for 127.0.0.1 at 2017-10-10 23:12:09 +0300
+Processing by DocumentsController#lin_regressions as */*
+  Parameters: {"file"=>#<ActionDispatch::Http::UploadedFile:0xa8fe184 @tempfile=#<Tempfile:/tmp/RackMultipart20171010-2712-1hswegw.csv>, @original_filename="a.csv", @content_type="application/octet-stream", @headers="Content-Disposition: form-data; name=\"file\"; filename=\"a.csv\"\r\nContent-Type: application/octet-stream\r\n">}
+  Rendering text template
+  Rendered text template (0.1ms)
+Completed 200 OK in 4ms (Views: 1.4ms)
+
+
